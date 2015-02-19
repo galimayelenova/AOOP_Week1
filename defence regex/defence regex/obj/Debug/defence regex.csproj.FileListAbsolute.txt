@@ -1,0 +1,6 @@
+c:\users\kreuzfeuer\documents\visual studio 2013\Projects\defence regex\defence regex\bin\Debug\defence regex.exe.config
+c:\users\kreuzfeuer\documents\visual studio 2013\Projects\defence regex\defence regex\bin\Debug\defence regex.exe
+c:\users\kreuzfeuer\documents\visual studio 2013\Projects\defence regex\defence regex\bin\Debug\defence regex.pdb
+c:\users\kreuzfeuer\documents\visual studio 2013\Projects\defence regex\defence regex\obj\Debug\defence regex.csprojResolveAssemblyReference.cache
+c:\users\kreuzfeuer\documents\visual studio 2013\Projects\defence regex\defence regex\obj\Debug\defence regex.exe
+c:\users\kreuzfeuer\documents\visual studio 2013\Projects\defence regex\defence regex\obj\Debug\defence regex.pdb
